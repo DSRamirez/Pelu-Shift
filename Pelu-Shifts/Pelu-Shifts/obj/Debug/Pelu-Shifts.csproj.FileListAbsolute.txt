@@ -1,0 +1,10 @@
+C:\Users\Elias Brondo\source\repos\Pelu-Shifts\Pelu-Shifts\bin\Debug\Pelu-Shifts.exe.config
+C:\Users\Elias Brondo\source\repos\Pelu-Shifts\Pelu-Shifts\bin\Debug\Pelu-Shifts.exe
+C:\Users\Elias Brondo\source\repos\Pelu-Shifts\Pelu-Shifts\bin\Debug\Pelu-Shifts.pdb
+C:\Users\Elias Brondo\source\repos\Pelu-Shifts\Pelu-Shifts\obj\Debug\Pelu-Shifts.csprojAssemblyReference.cache
+C:\Users\Elias Brondo\source\repos\Pelu-Shifts\Pelu-Shifts\obj\Debug\Pelu_Shifts.Form1.resources
+C:\Users\Elias Brondo\source\repos\Pelu-Shifts\Pelu-Shifts\obj\Debug\Pelu_Shifts.Properties.Resources.resources
+C:\Users\Elias Brondo\source\repos\Pelu-Shifts\Pelu-Shifts\obj\Debug\Pelu-Shifts.csproj.GenerateResource.cache
+C:\Users\Elias Brondo\source\repos\Pelu-Shifts\Pelu-Shifts\obj\Debug\Pelu-Shifts.csproj.CoreCompileInputs.cache
+C:\Users\Elias Brondo\source\repos\Pelu-Shifts\Pelu-Shifts\obj\Debug\Pelu-Shifts.exe
+C:\Users\Elias Brondo\source\repos\Pelu-Shifts\Pelu-Shifts\obj\Debug\Pelu-Shifts.pdb
